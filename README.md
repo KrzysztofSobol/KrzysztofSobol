@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm known as Kex, am a 19 years old coding enjoyer. I love coding backend stuff, bots, apps and tools.
+I'm known as Kex, am a 19 years old coding enjoyer. I love coding everything but GUIs
 
 ✨ _c++_ ✨ is my favorite language, closely followed by Java.
 
