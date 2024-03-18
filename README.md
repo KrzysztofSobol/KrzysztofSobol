@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm known as Kex, am a 19 years old programmer.
+I'm known as Kex, I'm a 19 years old programmer.
 
 ✨ _cpp_ and _java_ ✨ are my favorite languages, but I also have experience in C (STM32), C# (WPF) and python
 
